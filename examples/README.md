@@ -25,7 +25,7 @@ But, the MCP servers themselves are not robust secure production ready servers a
 Each example includes its own `manifest.json` and can be packed with:
 
 ```bash
-dxt pack examples/hello-world-node
+mcpb pack examples/hello-world-node
 ```
 
 Use these as starting points for your own extensions, but ensure you implement proper security measures before deploying to users.
